@@ -1,3 +1,13 @@
+"""
+* FILE: main.py
+* PROJECT: Revoke a certificate in KF
+* PURPOSE: Use Python requests library and data as arguments to revoke a certificate in Keyfactor
+* AUTHOR: Hayden Roszell
+* HISTORY: Version 1.0 12/3/2020
+*
+* Copyright © 2020 Keyfactor. All rights reserved.
+"""
+
 import datetime
 import json
 import sys
